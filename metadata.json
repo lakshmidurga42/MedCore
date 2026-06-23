@@ -1,0 +1,7 @@
+{
+  "name": "MedCore",
+  "description": "A professional facility management dashboard for tracking hospital bed availability, staff levels, and medical supplies with AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
